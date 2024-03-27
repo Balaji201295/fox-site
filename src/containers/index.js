@@ -1,0 +1,15 @@
+export { default as AboutInfo } from "./AboutInfo";
+export { default as AboutMe } from "./AboutMe";
+export { default as ContactInfo } from "./ContactInfo";
+export { default as CTA } from "./CTA";
+export { default as FAQ } from "./FAQ";
+export { default as Footer } from "./Footer";
+export { default as Header } from "./Header";
+export { default as Hero } from "./Hero";
+export { default as Location } from "./Location";
+export { default as MyExperience } from "./MyExperience";
+export { default as MyPartners } from "./MyPartners";
+export { default as MyPortfolio } from "./MyPortfolio";
+export { default as MyService } from "./MyService";
+export { default as MySkills } from "./MySkills";
+export { default as Testimonial } from "./Testimonial";
